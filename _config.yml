@@ -1,6 +1,6 @@
 title: "Morgan Grainger"
 title_separator: "|"
-subtitle: "Software Engineer"
+subtitle: "Master's Student at Vanderbilt"
 name: "Morgan Grainger"
 description: "Personal website for Morgan Grainger."
 url: "https://morgangrainger.com"
@@ -25,7 +25,7 @@ plugins:
 author:
   name: "Morgan Grainger"
   avatar: "/assets/images/morgan-grainger-headshot.jpg"
-  bio: "Software engineer in Nashville. This is a simple home for my publications, links, and contact information."
+  bio: "Master's student at Vanderbilt University. This is a simple home for my publications, links, and contact information."
   location: "Nashville, Tennessee"
   email: "morgan@morgangrainger.com"
   links:

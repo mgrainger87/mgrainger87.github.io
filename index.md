@@ -6,7 +6,7 @@ classes: wide
 permalink: /
 ---
 
-I’m Morgan Grainger, a software engineer based in Nashville, Tennessee.
+I’m Morgan Grainger, a master's student at Vanderbilt University based in Nashville, Tennessee.
 
 This site is intentionally minimal: a simple place to find my publications, professional links, and contact information.
 
