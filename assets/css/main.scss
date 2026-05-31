@@ -76,3 +76,16 @@ a {
 .page__content img {
   object-fit: cover;
 }
+
+.page__footer-copyright {
+  display: none;
+}
+
+.custom-footer-copyright {
+  font-size: 0.75em;
+  color: #9ba1a6;
+}
+
+.custom-footer-copyright a {
+  color: inherit;
+}
