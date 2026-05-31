@@ -1,0 +1,64 @@
+---
+---
+
+@import "minimal-mistakes";
+
+// Light, academic-leaning polish without fighting the theme defaults.
+:root {
+  --site-accent: #7f5539;
+  --site-accent-soft: #efe4d6;
+  --site-heading: #2d1f16;
+}
+
+.site-title,
+.page__title,
+.archive__item-title,
+.author__name,
+.page__hero-title,
+h1,
+h2,
+h3,
+h4 {
+  color: var(--site-heading);
+  font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+}
+
+.masthead {
+  border-bottom: 1px solid #d9c6b1;
+  background: linear-gradient(180deg, #fffdf9 0%, #f7f0e8 100%);
+}
+
+.greedy-nav a,
+.author__urls a,
+.page__footer a,
+a {
+  color: var(--site-accent);
+}
+
+.btn {
+  border-radius: 999px;
+  font-weight: 600;
+}
+
+.btn--primary,
+.btn--inverse,
+.btn--light-outline:hover {
+  background-color: var(--site-accent);
+  border-color: var(--site-accent);
+  color: #fff;
+}
+
+.page {
+  max-width: 900px;
+}
+
+.author__avatar img {
+  border: 3px solid var(--site-accent-soft);
+}
+
+.page__content p,
+.page__content li {
+  font-size: 1.03rem;
+  line-height: 1.7;
+}
+

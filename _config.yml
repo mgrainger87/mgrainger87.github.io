@@ -1,0 +1,65 @@
+title: "Your Name"
+title_separator: "|"
+subtitle: "Researcher, Teacher, Scholar"
+name: "Your Name"
+description: "A simple academic website built with Jekyll and Minimal Mistakes."
+url: "https://yourdomain.com"
+baseurl: ""
+repository: "mgrainger87/mgrainger87.github.io"
+locale: "en-US"
+timezone: "America/Chicago"
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.0"
+minimal_mistakes_skin: "dirt"
+search: false
+
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+author:
+  name: "Your Name"
+  bio: "Add a two- or three-sentence academic bio here."
+  location: "City, State"
+  email: "you@example.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:you@example.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mgrainger87"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "#"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "#"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mgrainger87"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: false
+
+include:
+  - _pages
+
+atom_feed:
+  hide: true
+
+sass:
+  style: compressed
