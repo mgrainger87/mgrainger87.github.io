@@ -38,6 +38,8 @@ h4 {
 
 .greedy-nav .visible-links {
   display: inline-flex;
+  width: auto;
+  flex: 0 0 auto;
   margin-left: auto;
   padding: 0.35rem 0.9rem;
   border-radius: 999px;
