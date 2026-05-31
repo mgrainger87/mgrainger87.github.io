@@ -1,5 +1,5 @@
 ---
-title: "Morgan Grainger"
+title: "About Me"
 layout: single
 author_profile: true
 classes: wide

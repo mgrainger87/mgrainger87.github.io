@@ -28,6 +28,14 @@ h4 {
   background: linear-gradient(180deg, #fffdf9 0%, #f7f0e8 100%);
 }
 
+.masthead .site-title {
+  display: none;
+}
+
+.greedy-nav .visible-links {
+  margin-left: auto;
+}
+
 .greedy-nav a,
 .author__urls a,
 .page__footer a,
