@@ -1,8 +1,8 @@
 title: "Morgan Grainger"
 title_separator: "|"
-subtitle: "Master's Student at Vanderbilt"
+subtitle: "M.S. Computer Science, Vanderbilt"
 name: "Morgan Grainger"
-description: "Personal website for Morgan Grainger."
+description: "Morgan Grainger is an M.S. student in Computer Science at Vanderbilt University interested in representation learning, generative models, and computational approaches to cognition."
 url: "https://morgangrainger.com"
 baseurl: ""
 repository: "mgrainger87/mgrainger87.github.io"
@@ -25,7 +25,7 @@ plugins:
 author:
   name: "Morgan Grainger"
   avatar: "/assets/images/morgan-grainger-headshot.jpg"
-  bio: "Master's student at Vanderbilt University. This is a simple home for my publications, links, and contact information."
+  bio: "M.S. student in Computer Science at Vanderbilt University. Interested in representation learning, generative models, and computational approaches to cognition."
   location: "Nashville, Tennessee"
   email: "morgan@morgangrainger.com"
   links:
