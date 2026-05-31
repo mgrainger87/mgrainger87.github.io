@@ -32,8 +32,16 @@ h4 {
   display: none;
 }
 
+.greedy-nav {
+  background: transparent;
+}
+
 .greedy-nav .visible-links {
+  display: inline-flex;
   margin-left: auto;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  background: #fff;
 }
 
 .greedy-nav a,
@@ -62,7 +70,8 @@ a {
 
 .author__avatar img {
   display: block;
-  width: 100%;
+  width: 100% !important;
+  max-width: none !important;
   aspect-ratio: 1 / 1;
   border: 3px solid var(--site-accent-soft);
   border-radius: 50%;
@@ -76,8 +85,9 @@ a {
 }
 
 .author__avatar {
-  max-width: 100%;
-  width: 100%;
+  display: block;
+  max-width: none !important;
+  width: 100% !important;
   padding: 0;
   background: transparent;
   border: 0;
