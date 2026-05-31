@@ -27,9 +27,6 @@ author:
   bio: "Computer Science M.S. student at Vanderbilt University studying how learning systems form useful representations, with interests in generative models and probabilistic cognition."
   location: "Nashville, Tennessee"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mgrainger87"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=sOLRXjQAAAAJ&hl=en"
