@@ -33,8 +33,8 @@ Minimal Jekyll + Minimal Mistakes academic website for GitHub Pages.
 ## Custom domain
 
 1. Verify your domain in GitHub.
-2. In repository settings, set the custom domain to your apex domain.
-3. Point the apex domain via `A`/`ALIAS`/`ANAME` records per your DNS provider.
-4. Point `www` to `mgrainger87.github.io` with a `CNAME`.
-5. Enable HTTPS in GitHub Pages after DNS propagation completes.
-
+2. Update `_config.yml` so `url` matches your apex domain.
+3. In repository settings, set the custom domain to your apex domain.
+4. Point the apex domain via `A`/`ALIAS`/`ANAME` records per your DNS provider.
+5. Point `www` to `mgrainger87.github.io` with a `CNAME`.
+6. Enable HTTPS in GitHub Pages after DNS propagation completes.
