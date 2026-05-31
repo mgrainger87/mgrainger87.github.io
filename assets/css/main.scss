@@ -68,6 +68,12 @@ a {
   max-width: 900px;
 }
 
+.sidebar,
+.sidebar:hover {
+  opacity: 1 !important;
+  transition: none !important;
+}
+
 .author__avatar img {
   display: block;
   width: 100% !important;
@@ -76,9 +82,6 @@ a {
   border: 3px solid var(--site-accent-soft);
   border-radius: 50%;
   object-fit: cover;
-  opacity: 1 !important;
-  filter: none !important;
-  transition: none !important;
 }
 
 .page__content p,
@@ -101,12 +104,6 @@ a {
 .author__avatar img,
 .page__content img {
   object-fit: cover;
-}
-
-.author__avatar:hover img,
-.author__avatar img:hover {
-  opacity: 1 !important;
-  filter: none !important;
 }
 
 .page__footer {
