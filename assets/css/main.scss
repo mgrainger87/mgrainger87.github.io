@@ -73,11 +73,12 @@ a {
   width: 100% !important;
   max-width: none !important;
   aspect-ratio: 1 / 1;
-  border: 0;
-  border-radius: 0;
+  border: 3px solid var(--site-accent-soft);
+  border-radius: 50%;
   object-fit: cover;
-  transform: scale(1.16);
-  transform-origin: center 32%;
+  opacity: 1 !important;
+  filter: none !important;
+  transition: none !important;
 }
 
 .page__content p,
@@ -92,15 +93,20 @@ a {
   width: 100% !important;
   padding: 0;
   background: transparent;
-  overflow: hidden;
-  border: 3px solid var(--site-accent-soft);
-  border-radius: 50%;
+  border: 0;
   box-shadow: none;
+  border-radius: 0;
 }
 
 .author__avatar img,
 .page__content img {
   object-fit: cover;
+}
+
+.author__avatar:hover img,
+.author__avatar img:hover {
+  opacity: 1 !important;
+  filter: none !important;
 }
 
 .page__footer {
