@@ -24,7 +24,7 @@ plugins:
 author:
   name: "Morgan Grainger"
   avatar: "/assets/images/morgan-grainger-headshot.jpg"
-  bio: "M.S. student in Computer Science at Vanderbilt University. Interested in representation learning, generative models, and computational approaches to cognition."
+  bio: "Computer Science M.S. student at Vanderbilt University studying how learning systems form useful representations, with interests in generative models and probabilistic cognition."
   location: "Nashville, Tennessee"
   links:
     - label: "GitHub"
