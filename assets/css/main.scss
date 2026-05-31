@@ -77,7 +77,6 @@ a {
 .sidebar .h-card {
   display: table;
   width: 100%;
-  table-layout: fixed;
 }
 
 .author__avatar img {
@@ -111,8 +110,37 @@ a {
 
 .author__content {
   display: table-cell;
+  width: 100%;
   vertical-align: top;
   padding-inline: 1rem;
+}
+
+.author__urls-wrapper {
+  width: 1%;
+  white-space: nowrap;
+}
+
+.author__urls-wrapper button {
+  display: none;
+}
+
+.author__urls {
+  display: block;
+  position: static;
+  margin-top: 0.75rem;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.author__urls::before,
+.author__urls::after {
+  display: none;
+}
+
+.author__urls li {
+  white-space: normal;
 }
 
 .page__footer {
@@ -147,5 +175,24 @@ a {
   .author__content {
     display: block;
     padding-inline: 0;
+  }
+
+  .author__urls-wrapper {
+    width: auto;
+    white-space: normal;
+  }
+
+  .author__urls-wrapper button {
+    display: none;
+  }
+
+  .author__urls {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
   }
 }
