@@ -54,6 +54,7 @@ a {
 
 .author__avatar img {
   border: 3px solid var(--site-accent-soft);
+  border-radius: 18px;
 }
 
 .page__content p,
@@ -62,3 +63,11 @@ a {
   line-height: 1.7;
 }
 
+.author__avatar {
+  max-width: 220px;
+}
+
+.author__avatar img,
+.page__content img {
+  object-fit: cover;
+}

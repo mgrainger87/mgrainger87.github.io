@@ -19,10 +19,10 @@ Minimal Jekyll + Minimal Mistakes academic website for GitHub Pages.
 ## Content to customize
 
 - `_config.yml`: name, bio, links, email, location, domain
-- `index.md`: short academic profile and research overview
+- `index.md`: short homepage copy
 - `_pages/publications.md`: publication list
 - `_pages/contact.md`: contact details
-- `assets/files/cv.pdf`: your CV PDF
+- `assets/images/morgan-grainger-headshot.jpg`: headshot image
 
 ## GitHub Pages
 

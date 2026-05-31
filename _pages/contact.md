@@ -5,9 +5,9 @@ permalink: /contact/
 
 The fastest way to reach me is by email.
 
-- Email: [you@example.com](mailto:you@example.com)
+- Email: [morgan@morgangrainger.com](mailto:morgan@morgangrainger.com)
+- Google Scholar: [scholar.google.com/citations?user=sOLRXjQAAAAJ&hl=en](https://scholar.google.com/citations?user=sOLRXjQAAAAJ&hl=en)
+- LinkedIn: [linkedin.com/in/morgang](https://www.linkedin.com/in/morgang/)
 - GitHub: [mgrainger87](https://github.com/mgrainger87)
-- Office or mailing address: Add if useful
 
-If you want to add a contact form later, it can be layered onto this page without changing the rest of the site structure.
-
+This page is intentionally simple, but it gives you a stable place to find me online.
