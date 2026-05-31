@@ -21,4 +21,3 @@ I’m interested in how learning systems build, represent, and use structure. So
 ## Quick Links
 
 [View Publications](/publications/){: .btn .btn--primary}
-[Get in Touch](/contact/){: .btn .btn--light-outline}
