@@ -6,7 +6,7 @@ classes: wide
 permalink: /
 ---
 
-I’m Morgan Grainger, an M.S. student in Computer Science at Vanderbilt University.
+I’m Morgan Grainger, an M.S. student in Computer Science at Vanderbilt University. Prior to my time at Vanderbilt, I was a software engineer at Apple for 17 years. I hold a Bachelor of Mathematics in Computer Science from the University of Waterloo.
 
 My academic interests are in machine learning and cognitive science, especially representation learning, diffusion and energy-based models, and Bayesian approaches to cognition.
 
@@ -17,12 +17,6 @@ I’m interested in how learning systems build, represent, and use structure. So
 - **Representation learning:** how models organize information in ways that support generalization and downstream reasoning.
 - **Generative modeling:** especially diffusion models and energy-based models as frameworks for learning complex distributions.
 - **Computational cognition:** Bayesian and probabilistic approaches to modeling learning, inference, and perception.
-
-## Profiles
-
-- [Google Scholar](https://scholar.google.com/citations?user=sOLRXjQAAAAJ&hl=en)
-- [LinkedIn](https://www.linkedin.com/in/morgang/)
-- [GitHub](https://github.com/mgrainger87)
 
 ## Quick Links
 
