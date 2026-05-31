@@ -61,8 +61,12 @@ a {
 }
 
 .author__avatar img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
   border: 3px solid var(--site-accent-soft);
-  border-radius: 12px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .page__content p,
@@ -72,7 +76,8 @@ a {
 }
 
 .author__avatar {
-  max-width: 220px;
+  max-width: 100%;
+  width: 100%;
   padding: 0;
   background: transparent;
   border: 0;
