@@ -3,8 +3,6 @@ title: "Research"
 permalink: /research/
 ---
 
-## Research Interests
-
 I study how learning systems acquire useful representations: state descriptions that preserve task-relevant structure, support prediction under perturbation, and expose uncertainty when information is incomplete.
 
 My interests sit at the intersection of:
