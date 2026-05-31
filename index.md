@@ -14,7 +14,7 @@ My academic interests are in machine learning and cognitive science, especially 
 
 I am interested in how learning systems construct effective representations: state descriptions that preserve useful distinctions, support prediction under perturbation, and handle uncertainty when information is incomplete.
 
-My work draws on representation learning, diffusion and energy-based models, Bayesian approaches to cognition, and ideas from statistical mechanics such as ensembles, entropy, free energy, coarse-graining, and renormalization.
+My work draws on representation learning, diffusion and energy-based models, Bayesian approaches to cognition, and ideas from statistical mechanics such as ensembles, entropy, free energy, coarse-graining, and the renormalization (semi-)group.
 
 ## Quick Links
 
