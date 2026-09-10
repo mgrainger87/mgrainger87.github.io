@@ -6,16 +6,15 @@ classes: wide
 permalink: /
 ---
 
-I am currently an M.S. student in Computer Science at Vanderbilt University, completing my thesis under the supervision of [Soheil Kolouri](https://skolouri.github.io). My academic interests are in theoretical machine learning and deep learning.
+I am currently an M.S. student in Computer Science at Vanderbilt University, completing my thesis under the supervision of [Soheil Kolouri](https://skolouri.github.io). My research is in theoretical machine learning, with a particular interest in how learning systems can construct effective theories from finite evidence.
 
 Previously, I was a software engineer at Apple for 17 years, where I had the privilege of working on the core operating system software and user interface for the iPhone and iPad and was a member of the original Apple Watch team. I hold a Bachelor of Mathematics in Computer Science from the University of Waterloo.
 
 ## Research Interests
 
-I am interested in how learning systems construct effective representations: state descriptions that preserve useful distinctions, support prediction under perturbation, and handle uncertainty when information is incomplete.
-
-My work draws on representation learning, diffusion and energy-based models, Bayesian approaches to cognition, and ideas from statistical mechanics such as ensembles, entropy, free energy, coarse-graining, and the renormalization (semi-)group.
+My research asks how learning systems can construct recursive effective theories from finite evidence: consequence-relative statistical interfaces, judged against independently specified criteria, that preserve consequential responses, retain a conditional distribution over unresolved detail, and make subsequent learning problems more tractable.
 
 ## Quick Links
 
-[View Publications](/publications/){: .btn .btn--primary}
+[Research](/research/){: .btn .btn--primary}
+[View Publications](/publications/){: .btn}
