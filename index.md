@@ -12,9 +12,4 @@ Previously, I was a software engineer at Apple for 17 years, where I had the pri
 
 ## Research Interests
 
-My research asks how learning systems can construct recursive effective theories from finite evidence: consequence-relative statistical interfaces, judged against independently specified criteria, that preserve consequential responses, retain a conditional distribution over unresolved detail, and make subsequent learning problems more tractable.
-
-## Quick Links
-
-[Research](/research/){: .btn .btn--primary}
-[View Publications](/publications/){: .btn}
+[My research](/research/) asks how learning systems can construct recursive effective theories from finite evidence: consequence-relative statistical interfaces, judged against independently specified criteria, that preserve consequential responses, retain a conditional distribution over unresolved detail, and make subsequent learning problems more tractable.
